@@ -1,0 +1,9 @@
+C:\Users\April\Desktop\nnode\nnode\obj\Debug\WindowsFormsApplication1.Form1.resources
+C:\Users\April\Desktop\nnode\nnode\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\April\Desktop\nnode\nnode\obj\Debug\nnode.csproj.GenerateResource.Cache
+C:\Users\April\Desktop\nnode\nnode\obj\Debug\nnode.pdb
+C:\Users\April\Desktop\nnode\nnode\bin\Debug\nnode.exe.config
+C:\Users\April\Desktop\nnode\nnode\bin\Debug\nnode.exe
+C:\Users\April\Desktop\nnode\nnode\bin\Debug\nnode.pdb
+C:\Users\April\Desktop\nnode\nnode\obj\Debug\nnode.csprojResolveAssemblyReference.cache
+C:\Users\April\Desktop\nnode\nnode\obj\Debug\nnode.exe
